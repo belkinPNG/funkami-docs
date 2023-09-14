@@ -9,8 +9,8 @@ branding:
     label:
       text: "#1d1d20"
       background: "#FFCDB2a1"
-#links:
-#- text: Getting Started
+links:
+#- text: Discord-сервер
 #  link: https://retype.com/guides/getting-started/
 search:
   noResultsFoundMsg: Прости, ничего не найдено.
